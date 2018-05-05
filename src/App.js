@@ -1,7 +1,8 @@
 import React, { Component } from 'react';
-import logo from './logo.png';
+import logo from './img/logo.png';
 import PlayToggle from './playToggle';
-import './App.css';
+import Player from './Player';
+
 
 class App extends Component {
   render() {
@@ -14,7 +15,8 @@ class App extends Component {
         <p className="App-intro">
           To get started, setup your bci and do <code>npm run stream</code> and reload.
         </p>
-          <PlayToggle></PlayToggle>
+          <Player />
+          <PlayToggle />
       </div>
     );
   }

@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "bciMusicPlayer",
+  "name": "bci Music Player",
   "icons": [
     {
       "src": "favicon.ico",

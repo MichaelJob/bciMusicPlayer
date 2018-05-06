@@ -9,6 +9,7 @@ class Player extends React.Component {
             playStatus: 'play',
             currentTime: 0
         };
+        this.togglePlay = this.togglePlay.bind(this);
     };
 
     updateTime(timestamp) {

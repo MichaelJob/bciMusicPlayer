@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import logo from './img/logo.png';
 import PlayToggle from './playToggle';
 import Player from './Player';
-
+import './stylesheets/App.scss';
 
 class App extends Component {
   render() {

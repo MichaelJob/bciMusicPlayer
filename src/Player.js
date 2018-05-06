@@ -1,5 +1,5 @@
 import React from 'react';
-import './stylesheets/player.scss';
+//import './stylesheets/player.scss';
 
 // Player
 class Player extends React.Component {

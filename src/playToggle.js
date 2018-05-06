@@ -1,5 +1,5 @@
 import React from 'react';
-import './stylesheets/playToggle.scss';
+import './stylesheets/playToggle.css';
 
 class playToggle extends React.Component {
     constructor(props) {
